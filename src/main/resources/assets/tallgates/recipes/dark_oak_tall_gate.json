@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tall_fence_gate",
+  "pattern": [
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_fence_gate"
+    }
+  },
+  "result": {
+    "item": "tallgates:tall_gate",
+    "data": 4
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tallgates",
+  "name": "TallGates",
+  "description": "A mod that adds tall fence gates to the game",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gory_Moon"],
+  "credits": "Darkosto for the idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
